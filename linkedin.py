@@ -5,7 +5,7 @@ from pyvirtualdisplay import Display
 import time, getpass
 
 username = 'hassansaad0x@gmail.com' # username
-password = 'inthenameofgod$A00' # password
+password = '' # password
 visible = 0 # make the process unvisible, { visible = 1, unvisible = 0 }
 
 if username == '':
