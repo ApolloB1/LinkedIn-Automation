@@ -19,4 +19,4 @@ The script by default take from you the username and password, and authenticatin
 To make this process visible just make this change in code ```visibel = 1```.
 To make this script not asking for your credentials and run at once, you can but your credentials in the ```username``` parameter and ```password``` parameter in the code.
 
-And that's it.
+This script runs only on linux, and that's it.
