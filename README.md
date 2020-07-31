@@ -4,7 +4,7 @@ Automate the process of connections sending, and grow your network fastly.
 ### Setup
 
 ```
-bash linkedin.sh
+sudo bash linkedin.sh
 ```
 
 ### Usage
